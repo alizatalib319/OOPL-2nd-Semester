@@ -1,0 +1,7 @@
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\obj\Debug\selfassessment3.csproj.AssemblyReference.cache
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\obj\Debug\selfassessment3.csproj.CoreCompileInputs.cache
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\bin\Debug\selfassessment3.exe.config
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\bin\Debug\selfassessment3.exe
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\bin\Debug\selfassessment3.pdb
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\obj\Debug\selfassessment3.exe
+C:\Users\YCS\source\repos\New folder\selfassessment3\selfassessment3\obj\Debug\selfassessment3.pdb
