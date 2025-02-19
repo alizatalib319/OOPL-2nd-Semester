@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOPL-2nd Semester\\Lab 3\\Manual 3 Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D65F51E-7258-4F35-8E32-3A7EDDA964A8}|Manual 3 Tasks.csproj|d:\\oopl-2nd semester\\lab 3\\manual 3 tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D65F51E-7258-4F35-8E32-3A7EDDA964A8}|Manual 3 Tasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D65F51E-7258-4F35-8E32-3A7EDDA964A8}|Manual 3 Tasks.csproj|D:\\OOPL-2nd Semester\\Lab 3\\Manual 3 Tasks\\clocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D65F51E-7258-4F35-8E32-3A7EDDA964A8}|Manual 3 Tasks.csproj|solutionrelative:clocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOPL-2nd Semester\\Lab 3\\Manual 3 Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOPL-2nd Semester\\Lab 3\\Manual 3 Tasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:30:42.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClockType.cs",
+              "DocumentMoniker": "D:\\OOPL-2nd Semester\\Lab 3\\Manual 3 Tasks\\ClockType.cs",
+              "RelativeDocumentMoniker": "ClockType.cs",
+              "ToolTip": "D:\\OOPL-2nd Semester\\Lab 3\\Manual 3 Tasks\\ClockType.cs",
+              "RelativeToolTip": "ClockType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:19:53.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

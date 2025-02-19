@@ -1,0 +1,14 @@
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.csproj.AssemblyReference.cache
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.csproj.CoreCompileInputs.cache
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.exe.config
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.exe
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.pdb
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.exe
+C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.pdb
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.exe.config
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.exe
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.pdb
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.csproj.AssemblyReference.cache
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.csproj.CoreCompileInputs.cache
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.exe
+D:\OOPL-2nd Semester\Lab 2\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.pdb

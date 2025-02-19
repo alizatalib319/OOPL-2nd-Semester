@@ -1,7 +1,0 @@
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.csproj.AssemblyReference.cache
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.csproj.CoreCompileInputs.cache
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.exe.config
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.exe
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\bin\Debug\Selfassessment1.pdb
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.exe
-C:\Users\YCS\source\repos\New folder\Selfassessment1\Selfassessment1\obj\Debug\Selfassessment1.pdb

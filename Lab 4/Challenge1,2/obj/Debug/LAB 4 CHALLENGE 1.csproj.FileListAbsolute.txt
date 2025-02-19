@@ -1,0 +1,14 @@
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\bin\Debug\LAB 4 CHALLENGE 1.exe.config
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\bin\Debug\LAB 4 CHALLENGE 1.exe
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\bin\Debug\LAB 4 CHALLENGE 1.pdb
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\obj\Debug\LAB 4 CHALLENGE 1.csproj.AssemblyReference.cache
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\obj\Debug\LAB 4 CHALLENGE 1.csproj.CoreCompileInputs.cache
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\obj\Debug\LAB 4 CHALLENGE 1.exe
+C:\Users\syusr\Downloads\oop\LAB 4 CHALLENGE 1\obj\Debug\LAB 4 CHALLENGE 1.pdb
+D:\OOPL-2nd Semester\Lab 4\bin\Debug\LAB 4 CHALLENGE 1.exe.config
+D:\OOPL-2nd Semester\Lab 4\bin\Debug\LAB 4 CHALLENGE 1.exe
+D:\OOPL-2nd Semester\Lab 4\bin\Debug\LAB 4 CHALLENGE 1.pdb
+D:\OOPL-2nd Semester\Lab 4\obj\Debug\LAB 4 CHALLENGE 1.csproj.AssemblyReference.cache
+D:\OOPL-2nd Semester\Lab 4\obj\Debug\LAB 4 CHALLENGE 1.csproj.CoreCompileInputs.cache
+D:\OOPL-2nd Semester\Lab 4\obj\Debug\LAB 4 CHALLENGE 1.exe
+D:\OOPL-2nd Semester\Lab 4\obj\Debug\LAB 4 CHALLENGE 1.pdb

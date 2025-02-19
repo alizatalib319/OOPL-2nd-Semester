@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syusr\\Downloads\\oop\\Manual 3 Tasks\\Challenge 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4884444B-EB68-4022-B9E6-3902A0A40D90}|Challenge 2.csproj|C:\\Users\\syusr\\Downloads\\oop\\Manual 3 Tasks\\Challenge 2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4884444B-EB68-4022-B9E6-3902A0A40D90}|Challenge 2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4884444B-EB68-4022-B9E6-3902A0A40D90}|Challenge 2.csproj|c:\\users\\syusr\\downloads\\oop\\manual 3 tasks\\challenge 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4884444B-EB68-4022-B9E6-3902A0A40D90}|Challenge 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\syusr\\Downloads\\oop\\Manual 3 Tasks\\Challenge 2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\syusr\\Downloads\\oop\\Manual 3 Tasks\\Challenge 2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:34:26.736Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syusr\\Downloads\\oop\\Manual 3 Tasks\\Challenge 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\syusr\\Downloads\\oop\\Manual 3 Tasks\\Challenge 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:25:33.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
